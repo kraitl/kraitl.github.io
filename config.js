@@ -25,7 +25,7 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'https://status.krail.org/'
+      url: 'http://status.krail.org/'
     },
     {
       text: 'GitHub',
